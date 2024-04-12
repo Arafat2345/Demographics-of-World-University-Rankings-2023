@@ -3,7 +3,7 @@
 ## Build From Sources
 '''bash
 1.git clone https://github.com/Arafat2345/Demographics-of-World-University-Rankings-2023.git
-...
+'''
 2.Initialize and activate virtual environment 
 '''bash
 virutalenv --no--site--packages venv_demo
