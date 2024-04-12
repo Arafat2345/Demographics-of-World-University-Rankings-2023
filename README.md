@@ -12,13 +12,11 @@ Follow these steps to set up the project from its source code:
    ```
 2. Initialize and Activate Virtual Environment:
  ```bash
-Copy code
 virtualenv --no-site-packages venv_demo
 source venv_demo/bin/activate
  ```
 3.Install Dependencies:
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 Tebleau Public View: https://public.tableau.com/app/profile/arafat.hossen/viz/WorldUniversityRankings20231/Dashboard1
